@@ -13,10 +13,8 @@
 * [Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News. [List]
 * [QHttpServer](https://github.com/nikhilm/qhttpserver) - HTTP server implementation for Qt based on node.js' http parser. [C++]
 * [DigitalOcean Articles & Tutorials](https://github.com/DigitalOcean-User-Projects/Articles-and-Tutorials)
-* [GSM-GPRS-GPS-Shield](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield) - GSM/GPRS & GPS Shield Library for modules using SIM900/SIM908. [C++]
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) - List of upcoming developer conferences. [List]
 * [informatics](https://github.com/Sirupsen/informatics) - Solutions to various Informatics tasks from different judges. [C++]
-* [GSM-shield](https://github.com/bushveldlabs/GSM-shield) - uBlox GSM shield. [C++]
 * [web-vmstats](https://github.com/joewalnes/web-vmstats) - Prettify vmstats in your browser. [JavaScript]
 * [tools](https://github.com/lvwzhen/tools) - Tools for web. [List]
 * [Saaghar](https://github.com/srazi/Saaghar) - Persian poetry software. [C++, Qt]
