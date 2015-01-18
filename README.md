@@ -1,7 +1,4 @@
 
-
-* [ZPanelCP](https://github.com/zpanel/zpanelx) - ZPanel is a web hosting control panel written in PHP for Windows and *NIX host OS's. [PHP]
-* [Linux Dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine. [PHP]
 * [wpp](https://github.com/konteck/wpp) - Single file embedded web server. [C++]
 * [stud](https://github.com/bumptech/stud) - The Scalable TLS Unwrapping Daemon. [C]
 * [OroCRM](https://github.com/orocrm/crm-application) - OroCRM Application. [PHP]
@@ -11,7 +8,6 @@
 * [DigitalOcean Articles & Tutorials](https://github.com/DigitalOcean-User-Projects/Articles-and-Tutorials)
 * [Developer-Conferences](https://github.com/MurtzaM/Developer-Conferences) - List of upcoming developer conferences. [List]
 * [informatics](https://github.com/Sirupsen/informatics) - Solutions to various Informatics tasks from different judges. [C++]
-* [web-vmstats](https://github.com/joewalnes/web-vmstats) - Prettify vmstats in your browser. [JavaScript]
 * [tools](https://github.com/lvwzhen/tools) - Tools for web. [List]
 * [Saaghar](https://github.com/srazi/Saaghar) - Persian poetry software. [C++, Qt]
 * [Caffe](https://github.com/BVLC/caffe) - Fast framework for deep learning. [C++]
