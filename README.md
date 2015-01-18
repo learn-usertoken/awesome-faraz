@@ -1,12 +1,8 @@
 
 * [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - Free Premium Admin control Panel Theme That Is Based On Bootstrap. [HTML]
-* [Viper](https://github.com/botherder/viper) - Binary analysis framework. [Python]
 * [ZPanelCP](https://github.com/zpanel/zpanelx) - ZPanel is a web hosting control panel written in PHP for Windows and *NIX host OS's. [PHP]
-* [dispatch-proxy](https://github.com/Morhaus/dispatch-proxy) - Combine internet connections, increase your download speed. [CoffeeScript]
-* [wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers. [Python]
 * [Linux Dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine. [PHP]
 * [wpp](https://github.com/konteck/wpp) - Single file embedded web server. [C++]
-* [lpd-monitor](https://github.com/jonls/lpd-monitor) - Monitor BitTorrent activity on the LAN through LPD. [Python]
 * [stud](https://github.com/bumptech/stud) - The Scalable TLS Unwrapping Daemon. [C]
 * [OroCRM](https://github.com/orocrm/crm-application) - OroCRM Application. [PHP]
 * [robdns](https://github.com/robertdavidgraham/robdns) - A fast DNS server based on C10M principles. [C]
@@ -25,10 +21,7 @@
 * [AES Finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes. [C++]
 * [Codigniter](https://github.com/bcit-ci/CodeIgniter)
 * [isowall](https://github.com/robertdavidgraham/isowall) - This is a mini-firewall that completely isolates a target device from the local network. [C]
-* [youtube-dl](https://github.com/rg3/youtube-dl)
 * [impress.js](https://github.com/bartaz/impress.js)
 * [Yii](https://github.com/yiisoft/yii)
 * [Laravel](https://github.com/laravel/laravel)
-* []() - .
-* []() - .
 * []() - .
