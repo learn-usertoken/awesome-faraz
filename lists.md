@@ -35,5 +35,8 @@
 * [cheat-sheets.org](http://www.cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
 * [thefreecountry.com](http://www.thefreecountry.com/) - A collection of free programming resources, free webmasters' resources, free security resources and free utilities.
 
-
+---
+* [virtualization](https://virtualization.zeef.com/jeroen.rijken)
+* [linux-for-administrators](https://linux-for-administrators.zeef.com/jeroen.rijken)
+* [bsd](https://bsd.zeef.com/jeroen.rijken)
 
