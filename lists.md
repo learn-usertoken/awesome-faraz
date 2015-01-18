@@ -12,6 +12,8 @@
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks)
 * [Projects](https://github.com/karan/Projects)
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 ---
 * [awesome-courses](https://github.com/prakhar1989/awesome-courses)
@@ -27,4 +29,11 @@
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 * [awesome-django](https://github.com/rosarior/awesome-django)
 * [awesome-java](https://github.com/akullpp/awesome-java)
+
+---
+* [cheatsheets.org](http://www.cheatsheets.org/) - The largest collection of reference cards for developers.
+* [cheat-sheets.org](http://www.cheat-sheets.org/) - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page.
+* [thefreecountry.com](http://www.thefreecountry.com/) - A collection of free programming resources, free webmasters' resources, free security resources and free utilities.
+
+
 
