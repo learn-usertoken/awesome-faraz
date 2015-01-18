@@ -1,5 +1,5 @@
 
-* [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - Free Premium Admin control Panel Theme That Is Based On Bootstrap. [HTML]
+
 * [ZPanelCP](https://github.com/zpanel/zpanelx) - ZPanel is a web hosting control panel written in PHP for Windows and *NIX host OS's. [PHP]
 * [Linux Dash](https://github.com/afaqurk/linux-dash) - A drop-in, low-overhead monitoring web dashboard for a linux machine. [PHP]
 * [wpp](https://github.com/konteck/wpp) - Single file embedded web server. [C++]
