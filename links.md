@@ -1,6 +1,6 @@
 
 * [keybase.io](https://keybase.io/)
-* [](http://bookos-z1.org/)
+* (http://bookos-z1.org/)
 * [](http://bookboon.com/)
 * [](http://www.it-ebooks.info/)
 * [](http://bookos.org/)
