@@ -19,9 +19,6 @@
 * [sys-prog-examples](https://github.com/skuhl/sys-prog-examples) - Simple C programs demonstrating different aspects of programming on Linux. [C]
 * [Sharif Judge](https://github.com/mjnaderi/Sharif-Judge) - A free and open source online judge system for programming courses. [PHP]
 * [AES Finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes. [C++]
-* [Codigniter](https://github.com/bcit-ci/CodeIgniter)
 * [isowall](https://github.com/robertdavidgraham/isowall) - This is a mini-firewall that completely isolates a target device from the local network. [C]
 * [impress.js](https://github.com/bartaz/impress.js)
-* [Yii](https://github.com/yiisoft/yii)
-* [Laravel](https://github.com/laravel/laravel)
 * []() - .
