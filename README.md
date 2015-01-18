@@ -1,3 +1,10 @@
 
-## [Algorithms](https://github.com/fffaraz/awesome-faraz/blob/master/algorithms.md)
-## [Android](https://github.com/fffaraz/awesome-faraz/blob/master/android.md)
+* [Algorithms](https://github.com/fffaraz/awesome-faraz/blob/master/algorithms.md)
+* [Android](https://github.com/fffaraz/awesome-faraz/blob/master/android.md)
+* [Etc.](https://github.com/fffaraz/awesome-faraz/blob/master/etc.md)
+* [GPS-GSM](https://github.com/fffaraz/awesome-faraz/blob/master/gsm-gps.md)
+* [Links](https://github.com/fffaraz/awesome-faraz/blob/master/links.md)
+* [Linux](https://github.com/fffaraz/awesome-faraz/blob/master/linux.md)
+* [Lists](https://github.com/fffaraz/awesome-faraz/blob/master/lists.md)
+* [Tools](https://github.com/fffaraz/awesome-faraz/blob/master/tools.md)
+* [Web-PHP](https://github.com/fffaraz/awesome-faraz/blob/master/web-php.md)
