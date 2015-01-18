@@ -1,12 +1,12 @@
 
 * [keybase.io](https://keybase.io/)
-* (http://bookos-z1.org/)
-* [](http://bookboon.com/)
-* [](http://www.it-ebooks.info/)
-* [](http://bookos.org/)
-* [](http://booksc.org/)
-* [](http://libgen.org/)
-* [](http://www.en.bookfi.org)
+* http://bookos-z1.org
+* http://bookboon.com
+* http://www.it-ebooks.info
+* http://bookos.org
+* http://booksc.org
+* http://libgen.org
+* http://www.en.bookfi.org
 * []()
 * []()
 * []()
